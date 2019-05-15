@@ -6,7 +6,7 @@ ABSTRACT: We are proposing a method to investigate changes in historical discour
 A link to a full-text online version of the paper will be posted here soon.
 
 # Code 
-To replicate our analysis and plot the results, you can download the trained .bin-files (vecs_1945-55.bin and vecs_1965-75.bin) from the 'releases' page and analyse them with the second script (2_analyse_plot_WEMs.R) in R or RStudio. Of course, you can also train new word embedding models based on your own dataset/.txt-file with the first script (1_train_WEMs.R) and analyse them with the second (2_analyse_plot_WEMs.R). We use the wordVectors package by Benjamin Schmidt and the magrittr forward-pipe operator package by Stefan Milton Bache and Hadley Wickham. 
+To replicate our analysis and plot the results, you can download the trained .bin-files (vecs_1945-55.bin and vecs_1965-75.bin) from the 'releases' page and analyse them with the second script (2_analyse_plot_WEMs.R) in R or RStudio. Of course, you can also train new word embedding models based on your own dataset or the sample .txt-file with the first script (1_train_WEMs.R) and analyse them with the second (2_analyse_plot_WEMs.R). We use the wordVectors package by Benjamin Schmidt and the magrittr forward-pipe operator package by Stefan Milton Bache and Hadley Wickham. 
 
 # Data
 Our trained models are based on the PoliticalMashup and Dutch Parliamentary Proceedings dataset. We have used the complete data for the period 1945-1955 and 1965-1975. Because of file size limitations, a smaller sample of the dataset will be uploaded here to test the code.
