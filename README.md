@@ -3,10 +3,10 @@ This repository contains the code (R) of the paper 'Debating Evil: Using Word Em
 
 You can start with training models based on your own dataset/.txt-file (1_train_WEMs.R) and analyse them (2_analyse_plot_WEMs.R) or download the trained .bin-files (vecs_1945-55.bin and vecs_1965-75.bin) and analyse them directly with the second script (2_analyse_plot_WEMs.R). 
 
-Our trained models are based on thefollowing dataset: PoliticalMashup and Dutch Parliamentary Proceedings 1814-2013*
+Our trained models are based on the PoliticalMashup and Dutch Parliamentary Proceedings dataset. *
 
-See also: https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:51637
+
 
  
  
-* Marx, Dr. M. (Informatics Institute, University of Amsterdam); Doornik, Dr. Ir. J. van (Informatics Institute, University of Amsterdam); Nusselder, BSc A. (Informatics Institute, University of Amsterdam); Buitinck, Msc L. (Informatics Institute, University of Amsterdam) (2012): Thematic collection: PoliticalMashup and Dutch Parliamentary Proceedings 1814-2013. DANS. https://doi.org/10.17026/dans-zg8-9x2v 
+*  Marx, Dr. M. (Informatics Institute, University of Amsterdam); Doornik, Dr. Ir. J. van (Informatics Institute, University of Amsterdam); Nusselder, BSc A. (Informatics Institute, University of Amsterdam); Buitinck, Msc L. (Informatics Institute, University of Amsterdam) (2012): Thematic collection: PoliticalMashup and Dutch Parliamentary Proceedings 1814-2013. DANS. https://doi.org/10.17026/dans-zg8-9x2v 
