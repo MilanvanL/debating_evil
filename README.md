@@ -5,5 +5,5 @@ To replicate our analysis and plotting of the results, you can download the trai
 
 Our trained models are based on the PoliticalMashup and Dutch Parliamentary Proceedings dataset. 
 
-[b]Data[/b]
+# Data
 Marx, Dr. M. (Informatics Institute, University of Amsterdam); Doornik, Dr. Ir. J. van (Informatics Institute, University of Amsterdam); Nusselder, BSc A. (Informatics Institute, University of Amsterdam); Buitinck, Msc L. (Informatics Institute, University of Amsterdam) (2012): Thematic collection: PoliticalMashup and Dutch Parliamentary Proceedings 1814-2013. DANS. https://doi.org/10.17026/dans-zg8-9x2v 
