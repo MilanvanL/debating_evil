@@ -1,7 +1,7 @@
 # Debating Evil
 This repository contains the code (R) of the paper 'Debating Evil: Using Word Embeddings to Analyse Parliamentary Debates on War Criminals in the Netherlands'.
 
-To replicate our analysis and plotting of the results, one also directly download the trained .bin-files (vecs_1945-55.bin and vecs_1965-75.bin) and analyse them with the second script (2_analyse_plot_WEMs.R). Of course, you can also train new Word Embedding Models based on your own dataset/.txt-file with the first script (1_train_WEMs.R) and analyse them with the second (2_analyse_plot_WEMs.R). 
+To replicate our analysis and plotting of the results, you can download the trained .bin-files (vecs_1945-55.bin and vecs_1965-75.bin) and analyse them with the second script (2_analyse_plot_WEMs.R). Of course, you can also train new Word Embedding Models based on your own dataset/.txt-file with the first script (1_train_WEMs.R) and analyse them with the second (2_analyse_plot_WEMs.R). 
 
 Our trained models are based on the PoliticalMashup and Dutch Parliamentary Proceedings dataset. *
 
