@@ -2,6 +2,7 @@
 This repository contains the code (R) of the paper 'Debating Evil: Using Word Embeddings to Analyse Parliamentary Debates on War Criminals in the Netherlands'.
 
 ABSTRACT
+
 We are proposing a method to investigate changes in historical discourse by using large bodies of text and word embedding models (WEMs). As a case study, we investigate discussions in Dutch Parliament about the punishment of war criminals in the period 1945-1975. We will demonstrate how word embedding models, trained with Google’s Word2Vec algorithm, can be used to trace historical developments in parliamentary vocabulary through time.
 
 A link to an online version of the paper will be posted here soon.
